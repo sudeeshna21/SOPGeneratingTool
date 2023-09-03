@@ -1,0 +1,108 @@
+.app-stepper{
+    /* margin-top: 2%; */
+    width: 80%;
+    margin-left: 12%;
+}
+
+.app-back{
+    padding-top: 2%;
+    background-color: #98989817;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.ui-heading{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 5%;
+    text-align: center;
+}
+.ui-work-heading{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 3%;
+    text-align: center;
+}
+
+
+.ui-fields{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.ui-row{
+    display: flex;
+    flex-direction: row;
+}
+.ui-textfield{
+    width: 300px;
+}
+.ui-desc{
+    width: 635px;
+}
+
+.ui-button-container{
+    margin-top: 6%;
+    margin-left: 23.5%;
+}
+
+.ui-button-next{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 15%;
+    margin-left: 40%;
+}
+.ui-button-next:hover{
+    background-color: black;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 0px 1px inset, rgba(59, 69, 79, 0.3) 0px 2px 4px;
+}
+
+.ui-button-prev{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 15%;
+}
+.ui-button-prev:hover{
+    background-color: black;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 0px 1px inset, rgba(59, 69, 79, 0.3) 0px 2px 4px;
+}
+
+.ui-thankyou{
+    font-size: 30px;
+    text-align: center;
+   
+}
+
+.ui-thankyou-img{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+
+.hp-button-video{
+    position: absolute;
+    top: 51%;
+    left: 42%;
+    width: 30%;
+}
+
+.hp-button{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 55%;
+    height: 63px;
+}
+.hp-button:hover{
+    background-color: black;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 0px 1px inset, rgba(59, 69, 79, 0.3) 0px 2px 4px;
+}
